@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am  a graduated Bandung State of Polytechnic and have <br>learned as fullstack developer in PT. Dumbways Indonesia <br>Teknologi.<br><br>I have experiences in some  company, such as <br>📌PT. Biofarma <br>in Electricity Division (Intern), <br>📌PT. Global 7 Teknologi as <br>Programmer Microcontroller (Intern) and <br>📌PT. Kotak Putih <br>Indonesia as a backend Node JS (contract). <br><br>I have some skill <br>that is :<br>📙Golang<br>📒Node JS Express<br>📘C++,<br>📚Mongo DB<br>📈Mysql<br>📉Postgresql, <br>📒Python
+I am  a graduated Bandung State of Polytechnic and have <br>learned as fullstack developer in PT. Dumbways Indonesia <br>Teknologi. <br><br>I have some skill <br>that is :<br>📙Golang<br>📒Node JS Express<br>📘C++,<br>📚Mongo DB<br>📈Mysql<br>📉Postgresql, <br>📒Python
 
 
 ## 🌐 Socials:
